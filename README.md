@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Atharv Nawal!
+# 👋 Hi, I’m Atharv Nawal! 
 
 I'm an enthusiastic Computer Science student at **VIT Pune** with a passion for solving business problems and uncovering hidden data stories. My goal is to create impactful tech solutions that bridge the gap between theoretical knowledge and real-world applications.
 
@@ -29,13 +29,7 @@ I'm eager to collaborate on:
 
 ## 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/atharvnawal/)
-- 📧 Email me: atharvnawal@example.com
 - 🌐 [GitHub](https://github.com/AtharvNawal)
-
----
-
-## 😄 Pronouns:
-He/Him
 
 ---
 
