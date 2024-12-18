@@ -1,37 +1,28 @@
-# 👋 Hi, I’m Atharv Nawal! 
+# 👋 Hi, I’m Atharv Nawal!
 
-I'm an enthusiastic Computer Science student at **VIT Pune** with a passion for solving business problems and uncovering hidden data stories. My goal is to create impactful tech solutions that bridge the gap between theoretical knowledge and real-world applications.
+I'm a Computer Science student at **VIT Pune**, passionate about solving business problems and creating impactful tech solutions.
 
 ---
 
 ## 👀 Interests:
-- 🚀 Exploring the intersection of **technology and business**.
-- 💡 Diving deep into **Full Stack Development** and **Data Structures** to find hidden insights.
-- 🔧 Building and optimizing systems for **Operating Systems**, **Microprocessors**, and **IoT devices**.
-- 🌐 Crafting intuitive **web applications** and exploring the latest in **full-stack development**.
+- **Tech & Business** innovation.
+- **Full Stack Development** & **Data Structures**.
+- Systems optimization in **OS**, **Microprocessors**, and **IoT**.
 
 ---
 
-## 🌱 Currently Learning:
-- Advanced concepts in **Operating Systems** (spooling, paging, and multitasking simulations).
-- Exploring **data structures**, **algorithms**, and their applications in real-world scenarios.
-- Hands-on projects in **C** and **Java** to strengthen my programming fundamentals.
+## 🌱 Learning:
+- Advanced **Operating Systems** concepts.
+- Real-world applications of **Data Structures** and **Algorithms**.
+- Building projects in **C** and **Java**.
 
 ---
 
 ## 💞️ Collaboration:
-I'm eager to collaborate on:
-- **Open-source projects** that involve real-world problem-solving.
-- Developing innovative **IoT** and **robotics** systems like my Autonomous Guided Vehicle (AGV).
-- Projects in **web development**, **data analysis**, and **AI-driven solutions**.
+Excited to work on **Open-source projects**, **IoT systems**, **web development**, and **AI solutions**.
 
 ---
 
-## 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/atharvnawal/)
-- 🌐 [GitHub](https://github.com/AtharvNawal)
-
----
-
-## ⚡ Fun Fact:
-Did you know? I once built an Autonomous Guided Vehicle (AGV) that could both follow lines and avoid obstacles using an Arduino, IR sensors, and an ultrasonic sensor. 🚗💡
+## 📫 Connect:
+- [LinkedIn](https://www.linkedin.com/in/atharvnawal/)
+- [GitHub](https://github.com/AtharvNawal)
